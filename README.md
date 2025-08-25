@@ -24,5 +24,5 @@ El objetivo principal es responder a preguntas clave sobre la carrera de Messi, 
 * **Socios clave:** Jugadores como **Luis Suárez** y **Dani Alves** fueron sus principales asistidores, lo que subraya la importancia de sus asociaciones en el campo.
 
 ## 📁 Archivos en este repositorio
-- `tu_cuaderno.ipynb`: Contiene todo el código de limpieza, análisis y visualización.
-- `messi_goles_limpio.csv`: El dataset final, limpio y listo para ser utilizado.
+- `Messi.ipynb`: Contiene todo el código de limpieza, análisis y visualización.
+
